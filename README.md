@@ -5,9 +5,9 @@ To use the app:
 
 - Install Expo (more info in expo.io)
 
-- npm install
+- yarn
 
-- npm start
+- yarn start
 
 Scan the barcode :D
 
